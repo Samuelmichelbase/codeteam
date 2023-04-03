@@ -1,4 +1,4 @@
-# codeteam
+# R&D team recruitment
 
 Need to develop an Android app, required to be online within 3 weeks, now recruiting R & D team.
 
